@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/activity_add_album.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/cardview_add.xml" value="0.536" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/cardview_album.xml" value="0.176" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/cardview_transaction.xml" value="0.264" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/fragment_add.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/fragment_album.xml" value="0.2" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/fragment_report.xml" value="0.25" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/layout/fragment_transaction.xml" value="0.264" />
+        <entry key="..\:/AMIKOM/Sems 4/Bahasa Pemrograman II/Praktikum/FinalProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
